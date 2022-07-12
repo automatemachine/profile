@@ -488,6 +488,8 @@ section {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
+  width: auto;
+  height: auto;
   z-index: 1;
 }
 .portfolio .portfolio-wrap::before {
