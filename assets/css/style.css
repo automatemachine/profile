@@ -519,7 +519,7 @@ section {
   text-align: center;
   background: rgba(20, 157, 221, 0.75);
   transition: 0.3s;
-  width: 50%;
+  width: 100%;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   background: rgba(20, 157, 221, 0.95);
@@ -888,6 +888,10 @@ section {
 .breadcrumbs {
   padding: 20px 0;
   background: #f9f9f9;
+}
+.img-fluid {
+  width: auto;
+  height: auto;
 }
 .breadcrumbs h2 {
   font-size: 26px;
